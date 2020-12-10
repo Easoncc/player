@@ -1,2 +1,2 @@
 # player
-基于https://github.com/piemonte/Player的再次开发
+基于https://github.com/piemonte/Player 的再次开发
