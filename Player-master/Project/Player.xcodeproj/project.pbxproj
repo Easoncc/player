@@ -18,6 +18,9 @@
 		065A0FAD1A25C8E2005BA7BC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 065A0FAB1A25C8E2005BA7BC /* LaunchScreen.xib */; };
 		065A0FC61A25C94B005BA7BC /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065A0FC51A25C94B005BA7BC /* Player.swift */; };
 		06C0905F1E038F250038CA25 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065A0FC51A25C94B005BA7BC /* Player.swift */; };
+		BFE72B0C258764A500BA2161 /* AssetDowload.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE72B0B258764A500BA2161 /* AssetDowload.swift */; };
+		BFE72B0D258764A500BA2161 /* AssetDowload.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE72B0B258764A500BA2161 /* AssetDowload.swift */; };
+		BFE72B0E258764A500BA2161 /* AssetDowload.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE72B0B258764A500BA2161 /* AssetDowload.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +42,7 @@
 		065A0FC51A25C94B005BA7BC /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Player.swift; path = ../Sources/Player.swift; sourceTree = "<group>"; };
 		06C6A5891A89E952009DC6EA /* Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Release.xcconfig; sourceTree = SOURCE_ROOT; };
 		06DE65951E182C5A00C064DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = Framework/Info.plist; sourceTree = SOURCE_ROOT; };
+		BFE72B0B258764A500BA2161 /* AssetDowload.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetDowload.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +156,7 @@
 			isa = PBXGroup;
 			children = (
 				065A0FC51A25C94B005BA7BC /* Player.swift */,
+				BFE72B0B258764A500BA2161 /* AssetDowload.swift */,
 			);
 			name = Player;
 			sourceTree = "<group>";
@@ -304,6 +309,7 @@
 				04B4E6421C1E8A7B00E20778 /* ViewController.swift in Sources */,
 				04D702CF1C1E8C8400879C91 /* Player.swift in Sources */,
 				04B4E6401C1E8A7B00E20778 /* AppDelegate.swift in Sources */,
+				BFE72B0D258764A500BA2161 /* AssetDowload.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,6 +318,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				06C0905F1E038F250038CA25 /* Player.swift in Sources */,
+				BFE72B0E258764A500BA2161 /* AssetDowload.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -322,6 +329,7 @@
 				065A0FA51A25C8E2005BA7BC /* ViewController.swift in Sources */,
 				065A0FC61A25C94B005BA7BC /* Player.swift in Sources */,
 				065A0FA31A25C8E2005BA7BC /* AppDelegate.swift in Sources */,
+				BFE72B0C258764A500BA2161 /* AssetDowload.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
